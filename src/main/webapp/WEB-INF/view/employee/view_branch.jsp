@@ -185,7 +185,7 @@
 
               <div class="col-md-6 mb-3 mt-4">
                 <label for="validationTooltipBranch">Branch Location</label>
-                   <input type="text" class="form-control" id="employee_branch_location" name="branchLocation" value="${branch.branchName}" readonly="readonly" required>
+                   <input type="text" class="form-control" id="employee_branch_location" name="branchLocation" value="${branch.branchLocation}" readonly="readonly" required>
                     <div class="invalid-tooltip">
                     Veuillez entrer la location de la branche.
                     </div>

@@ -282,7 +282,7 @@
 								<a href="mailto:${department.departmentEmail}"style="text-align: center; color:#EEEFEF;"><i class="far fa-envelope fa-2x"></i></a>
 								</td>
 								<td>
-								<a href="callto:${department.dphoneNo}" style="text-align: center; color:#EEEFEF;"><i class="fas fa-phone fa-2x"></i></a>
+								<a href="callto:${department.departmentEmail}" style="text-align: center; color:#EEEFEF;"><i class="fas fa-phone fa-2x"></i></a>
 								</td>
 
                   	  		
